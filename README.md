@@ -1,12 +1,10 @@
 ## Hi there 👋 It's me Saikumar
 #### Aspiring .NET Full Stack Developer | Problem Solver | Lifelong Learner
+<img src="https://media.tenor.com/images/23414225.gif" alt="Developer at work" width="500"/>
 
 Electronic And Communiction Engineering Student
-![Funny GIF](https://tenor.com/bKpgX.gif)
-
-
 ## About Me
-...
+
 - I am a motivated student skilled in full-stack web development, with strong backend expertise in  **.NET MVC, C#, and SQL Server**  combined with frontend proficiency in **HTML, CSS, JavaScript, React.js, and
 Bootstrap**.
 
