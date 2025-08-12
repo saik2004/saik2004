@@ -10,4 +10,4 @@ Electronic And Communiction Engineering Student
 
 - I am passionate about writing clean, maintainable code and continuously learning new technologies to deliver impactful web applications. I look forward to applying my skills in real-world projects and growing as a full-stack developer.
 
-
+- Coffee ☕ + Code 👨‍💻 = Productive me! 😄
