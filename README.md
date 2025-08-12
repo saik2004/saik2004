@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 It's me Saikumar
+
+Electronic And Communiction Engineering Student
 
 <!--
 **saik2004/saik2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
