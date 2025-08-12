@@ -1,10 +1,8 @@
 ## Hi there 👋 It's me Saikumar
 #### Aspiring .NET Full Stack Developer | Problem Solver | Lifelong Learner
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHBxM2Z3NjByNzJya256MXp3b3Y2Mjk5bWVscXBpNXdqN2JhN3c5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" alt="Developer GIF" width="500"/>
-
-
 Electronic And Communiction Engineering Student
 ## About Me
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQyOWxyb2JvdndjNjRvbGVwMjJwZmhzeWMzbWttajU0ZXB2MHJlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="Developer GIF" width="370" height="290" style="float: right; margin-left: 15px;" />
 
 - I am a motivated student skilled in full-stack web development, with strong backend expertise in  **.NET MVC, C#, and SQL Server**  combined with frontend proficiency in **HTML, CSS, JavaScript, React.js, and
 Bootstrap**.
