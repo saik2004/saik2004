@@ -2,7 +2,7 @@
 #### Aspiring .NET Full Stack Developer | Problem Solver | Lifelong Learner
 Electronic And Communiction Engineering Student
 ## About Me
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQyOWxyb2JvdndjNjRvbGVwMjJwZmhzeWMzbWttajU0ZXB2MHJlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="Developer GIF" width="250" height="270" align="right" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazQyOWxyb2JvdndjNjRvbGVwMjJwZmhzeWMzbWttajU0ZXB2MHJlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R03zWv5p1oNSQd91EP/giphy.gif" alt="Developer GIF" width="250" height="240" align="right" />
 
 - I am a motivated student skilled in full-stack web development, with strong backend expertise in  **.NET MVC, C#, and SQL Server**  combined with frontend proficiency in **HTML, CSS, JavaScript, React.js, and
 Bootstrap**.
