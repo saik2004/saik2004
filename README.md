@@ -13,3 +13,4 @@ Bootstrap**.
 - I am passionate about **writing clean, maintainable code** and continuously learning new technologies to deliver impactful web applications. I look forward to applying my skills in **real-world projects** and growing as a full-stack developer.
 
 - Coffee ☕ + Code 👨‍💻 = Productive me! 😄
+- <div class="tenor-gif-embed" data-postid="23414225" data-share-method="host" data-aspect-ratio="1.20301" data-width="100%"><a href="https://tenor.com/view/developer-gif-23414225">Developer GIF</a>from <a href="https://tenor.com/search/developer-gifs">Developer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
