@@ -2,6 +2,8 @@
 #### Aspiring .NET Full Stack Developer | Problem Solver | Lifelong Learner
 
 Electronic And Communiction Engineering Student
+![Funny GIF](https://tenor.com/bKpgX.gif)
+
 
 ## About Me
 ...
@@ -13,4 +15,3 @@ Bootstrap**.
 - I am passionate about **writing clean, maintainable code** and continuously learning new technologies to deliver impactful web applications. I look forward to applying my skills in **real-world projects** and growing as a full-stack developer.
 
 - Coffee ☕ + Code 👨‍💻 = Productive me! 😄
-![Funny GIF](https://tenor.com/bKpgX.gif)
