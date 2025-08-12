@@ -14,4 +14,4 @@ Bootstrap**.
 - Coffee ☕ + Code 👨‍💻 = Productive me! 😄
 
 #### I Code in
-<img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo-2.png" alt="c-sharp-logo-2"/> <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
